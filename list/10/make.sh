@@ -1,0 +1,1 @@
+gcc-11 -g -m32 main.c bubble_sort.S -o bubble_sort
